@@ -1,0 +1,14 @@
+Source container:
+Petrov Petr:  GroupB,67890, Score: 5, 8, 7, 5
+Sidorov Sid:  GroupC,34567, Score: 8, 8, 8, 8
+Ivanov Ivan:  GroupA,12345, Score: 9, 8, 7, 6
+
+Sorted container:
+Ivanov Ivan:  GroupA,12345, Score: 9, 8, 7, 6
+Petrov Petr:  GroupB,67890, Score: 5, 8, 7, 5
+Sidorov Sid:  GroupC,34567, Score: 8, 8, 8, 8
+
+Deque container:
+Ivanov Ivan:  GroupA,12345, Score: 9, 8, 7, 6
+Petrov Petr:  GroupB,67890, Score: 5, 8, 7, 5
+Sidorov Sid:  GroupC,34567, Score: 8, 8, 8, 8

@@ -1,0 +1,3 @@
+Petrov Petr, GroupB, 67890, 5 8 7 5
+Sidorov Sid, GroupC, 34567, 8 8 8 8
+Ivanov Ivan, GroupA, 12345, 9 8 7 6
